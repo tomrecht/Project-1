@@ -7,3 +7,10 @@ The purpose of the project was to explore recent trends in the population of spe
 ## Data Sources
 Used the census API, specially American Community Survey 1-year Data API for the years 2009-2015
 [Data Link](http://www.census.gov/programs-surveys/acs)
+
+## Tool Used
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+* Gumaps
+* Numpy
