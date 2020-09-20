@@ -1,3 +1,3 @@
 # Language Demographics
 
-![presentation](LanguageDemographics.pdf)
+![presentation](/LanguageDemographics.pdf)
