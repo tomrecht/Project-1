@@ -1,3 +1,3 @@
 # Language Demographics
 
-![presentation](/LanguageDemographics.pdf)
+[Presentation](https://github.com/tomrecht/Project-1/blob/jihye/LanguageDemographics.pdf)
